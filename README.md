@@ -1,21 +1,21 @@
-Bitcoin Core integration/staging tree
+AssetsCoin Core integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://assetscoin.net
 
-For an immediately usable, binary version of the Bitcoin Core software, see
+Assetscoin was Forked for an immediately usable off a binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about the foundation of AssetsCoin, Bitcoin Core is available in the [doc folder](/doc).
 
-What is Bitcoin?
+What is AssetsCoin?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+AssetsCoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. AssetsCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
+software which enables the use of AssetsCoin currency.
 
 For more information read the original Bitcoin whitepaper.
 
@@ -24,6 +24,8 @@ License
 
 Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
+
+AssetsCoin is the following the opensource Licenses agreement as of 5/31/2021
 
 Development Process
 -------------------
@@ -40,9 +42,11 @@ that repository unless it is for development reasons.
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
+Assets coin new development team is going to start the Debelpoment road map on 7/1/2021.  However small changes (ie. descripetion with in the code, amount of coins) have occurred.
+
 Testing
 -------
-
+Assetscoin testing and reworking code.
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test on short notice. Please be patient and help out by testing
 other people's pull requests, and remember this is a security-critical project where any mistake might cost people
